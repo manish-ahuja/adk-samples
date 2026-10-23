@@ -4,7 +4,7 @@ absolufy-imports==0.3.1
     # via google-adk
 aiohappyeyeballs==2.6.1
     # via aiohttp
-aiohttp==3.12.15
+aiohttp==3.14.4
     # via
     #   video-gen (pyproject.toml)
     #   toolbox-core
@@ -31,7 +31,7 @@ authlib==1.6.3
     # via google-adk
 cachetools==5.5.2
     # via google-auth
-certifi==2025.8.3
+certifi==2026.10.19
     # via
     #   httpcore
     #   httpx
@@ -258,7 +258,7 @@ numpy==2.3.2
     #   pandas
     #   shapely
     #   soundfile
-opentelemetry-api==1.36.0
+opentelemetry-api==1.45.1
     # via
     #   google-adk
     #   google-cloud-logging
@@ -291,7 +291,7 @@ packaging==25.0
     #   pytest
 pandas==2.3.2
     # via video-gen (pyproject.toml)
-pillow==11.3.0
+pillow==13.0.0
     # via
     #   imageio
     #   moviepy
